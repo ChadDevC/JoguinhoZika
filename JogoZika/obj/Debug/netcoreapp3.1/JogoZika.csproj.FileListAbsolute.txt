@@ -1,0 +1,14 @@
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\bin\Debug\netcoreapp3.1\JogoZika.exe
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\bin\Debug\netcoreapp3.1\JogoZika.deps.json
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\bin\Debug\netcoreapp3.1\JogoZika.runtimeconfig.json
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\bin\Debug\netcoreapp3.1\JogoZika.runtimeconfig.dev.json
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\bin\Debug\netcoreapp3.1\JogoZika.dll
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\bin\Debug\netcoreapp3.1\JogoZika.pdb
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\obj\Debug\netcoreapp3.1\JogoZika.csproj.AssemblyReference.cache
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\obj\Debug\netcoreapp3.1\JogoZika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\obj\Debug\netcoreapp3.1\JogoZika.AssemblyInfoInputs.cache
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\obj\Debug\netcoreapp3.1\JogoZika.AssemblyInfo.cs
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\obj\Debug\netcoreapp3.1\JogoZika.csproj.CoreCompileInputs.cache
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\obj\Debug\netcoreapp3.1\JogoZika.dll
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\obj\Debug\netcoreapp3.1\JogoZika.pdb
+C:\Users\guest01\Source\Repos\JoguinhoZika\JogoZika\obj\Debug\netcoreapp3.1\JogoZika.genruntimeconfig.cache
