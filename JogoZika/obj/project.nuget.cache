@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKsz/wrJPowYjWCvGD5Lnu5fjV8Zow0FKHsAHEDtWX1GZ1qcyW/keAAK2xd4Jh/Yd4zbbGak1p3MSNM600s80Q==",
+  "dgSpecHash": "ocYdvm3J6mjUxXfehtiHSabFE8BRQGijca9qoIBGyjFt9hS7ZyDkTHJHtVfbFhGdrxAPsXRuL43SrBJZIXIwwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guest01\\source\\repos\\JoguinhoZika\\JogoZika\\JogoZika.csproj",
+  "projectFilePath": "C:\\Users\\guest01\\Source\\Repos\\JoguinhoZika\\JogoZika\\JogoZika.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guest01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
