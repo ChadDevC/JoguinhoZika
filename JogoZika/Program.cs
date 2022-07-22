@@ -7,7 +7,7 @@ namespace JogoZika
     {
         static void Main(string[] args)
         {
-             //up
+            //up
             string nome = "Luiz";
             decimal exp = 5050.500m;
             string classe = "Mago";
