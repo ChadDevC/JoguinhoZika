@@ -1,0 +1,59 @@
+MENU DENTRO DA MAIN-------------------------------------------------------------------------
+            Menu();
+            int opcao = Convert.ToInt32(Console.ReadLine());
+            while (opcao != 0)
+            {
+                if (opcao == 1)
+                {
+                    Console.WriteLine("Adicione um nome para o personagem:");
+                    personagem.Nome = Console.ReadLine();
+                    Console.WriteLine("Adicione a experciência para o personagem:");
+                    personagem.Exp = Convert.ToDecimal(Console.ReadLine());
+                    Console.WriteLine("Adicione a classe para o personagem:");
+                    personagem.Classe = Console.ReadLine();
+                    Console.WriteLine("Adicione a linhagem para o personagem:");
+                    personagem.Linhagem = Console.ReadLine();
+                    Console.WriteLine("Adicione a cidaede incial para o personagem:");
+                    personagem.CidadeInicial = Console.ReadLine();
+                    Console.WriteLine("Adicione uma cidade atual para o personagem:");
+                    personagem.CidadeAtual = Console.ReadLine();
+                    MostrarPesonagem(personagem);
+                    opcao = 0;
+                }
+           }
+MENU DENTRO DA MAIN-------------------------------------------------------------------------
+
+
+
+
+MENU----------------------------------------------------------------------------------------
+
+        public static void Menu()
+        { 
+            Console.WriteLine("0- Sair");
+            Console.WriteLine("1- Criar personagem");
+        }
+        
+MENU----------------------------------------------------------------------------------------
+
+
+
+
+
+
+FUNÇÃO MOSTRAR PERSONAGEM-------------------------------------------------------------------
+
+        public static void MostrarPesonagem(Personagem personagem)
+        {
+            Console.WriteLine("");
+            Console.WriteLine("Dados do personagem:\n");
+            Console.WriteLine("Nome: " + personagem.Nome);
+            Console.WriteLine("Experiência: " + personagem.Exp);
+            Console.WriteLine("Level: " + personagem.Level);
+            Console.WriteLine("Classe: " + personagem.Classe);
+            Console.WriteLine("Linhagem: " + personagem.Linhagem);
+            Console.WriteLine("Cidade natal: " + personagem.CidadeInicial);
+            Console.WriteLine("Cidade atual: " + personagem.CidadeAtual);
+        }
+        
+FUNÇÃO MOSTRAR PERSONAGEM-------------------------------------------------------------------
