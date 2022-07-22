@@ -6,7 +6,7 @@ namespace JogoZika
 {
     public class Personagem
     {
-        //up
+        
         public string Nome { get; set; }
         public decimal Exp { get; set; }
 
